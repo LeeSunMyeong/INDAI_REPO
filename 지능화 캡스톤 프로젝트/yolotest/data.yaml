@@ -1,0 +1,8 @@
+# data.yaml
+
+train: C:/Users/smmm/Downloads/data/frame/frame_Onboard/train/img
+val: C:/Users/smmm/Downloads/data/frame/frame_Onboard/val/img
+test: C:/Users/smmm/Downloads/data/frame/frame_Onboard/test/img
+
+nc: 7  # 클래스 수
+names: ['Boat', 'Vessel/Ship', 'Ferry', 'Kayak', 'Buoy', 'Sail Boat', 'Others']
